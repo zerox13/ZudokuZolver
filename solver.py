@@ -48,3 +48,4 @@ def solve():
 
 
 solve()
+print("Wooohooo!!! \n There was totally " + repr(solutionNr-1)+ " solutions\n")
